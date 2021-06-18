@@ -13,12 +13,12 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Developer Trainee at [Presidio](https://www.presidio.com/);
-- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at GTBIT(https://vcet.ac.in/);
+- 👨🏽‍💻 I’m a Software Developer Trainee at Pepcoding
+- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at GTBIT(https://www.gtbit.org/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kishanlal0725@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/kishan0725/) to reach me;
+- 📫 Please email via kushg30@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/kushagragupta1/) to reach me;
 <br/> 
 </em>
 
