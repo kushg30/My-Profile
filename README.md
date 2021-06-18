@@ -1,4 +1,4 @@
-# My-Profile
+# kushg30
 ## Hi there, I'm [Kushagra Gupta](https://kishanlal.tech/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
