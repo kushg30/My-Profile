@@ -39,22 +39,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/kushg30">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kushg30&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/kushg30">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kushg30&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-kushg30%20-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagragupta1/)](https://www.linkedin.com/in/kushagragupta1/) [![Instagram Badge](https://img.shields.io/badge/-kushg30-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kushg30)](https://www.instagram.com/kushg_30) [![GitHub Badge](https://img.shields.io/badge/-kushg30-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kushg30)](https://github.com/kushg30) [![Gmail Badge](https://img.shields.io/badge/-kushg30-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kushg30@gmail.com)](mailto:kushg30@gmail.com)
