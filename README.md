@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Developer at JPMC for past 6 months.
+- 👨🏽‍💻 Currently SDE at Newgen Softwares and previously worked as a SDE at JPMC.
 - 💼 I did my B.Tech in Information Technology from GTBIT(https://www.gtbit.org/);
 - 🤔 My interests are with Web App Development 🖥️, Java 📊, Football , Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU and anime <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
